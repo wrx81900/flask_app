@@ -1,6 +1,6 @@
 name: Testing FlaskApp
 
-on: [ push ]:
+on: [push]
 
 jobs:
   build:
